@@ -1,0 +1,17 @@
+.venv/
+__pycache__/
+*.py[cod]
+
+data/raw/
+data/processed/
+
+models/*.onnx
+models/*.pt
+models/*.pth
+
+outputs/
+
+.ipynb_checkpoints/
+
+.env
+.DS_Store
